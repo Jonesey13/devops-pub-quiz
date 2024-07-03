@@ -13,6 +13,11 @@ quiz_questions = [
         "options": ["A) 3", "B) 4", "C) 5", "D) 22"],
         "answer": "B"
     },
+    {
+        "question": "When was the Battle of Hastings?",
+        "options": ["A) 1666", "B) 1266", "C) 1066", "D) 1166"],
+        "answer": "C"
+    },
     # Learners can add more questions here following the same structure
 ]
 
